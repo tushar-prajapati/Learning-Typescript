@@ -1,2 +1,4 @@
-import { optional } from "./optional";
-optional();
+import { tushar } from "./intersectionTypes";
+
+console.log(tushar.salary)
+
