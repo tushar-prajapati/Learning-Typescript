@@ -25,4 +25,4 @@ function printMsg( msg: string):void {
     console.log(msg)
 }
 printMsg("hello world")
-
+  
