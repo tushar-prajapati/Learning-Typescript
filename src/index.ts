@@ -1,4 +1,2 @@
-import { tushar } from "./intersectionTypes";
-
-console.log(tushar.salary)
-
+import { myVar,arr } from "./union"
+console.log(arr)
