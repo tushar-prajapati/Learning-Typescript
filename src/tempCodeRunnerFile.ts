@@ -1,1 +1,1 @@
-myVar
+sunny
