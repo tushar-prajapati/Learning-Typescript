@@ -1,0 +1,1 @@
+{"version":3,"file":"declarationMerging.js","sourceRoot":"","sources":["../src/declarationMerging.ts"],"names":[],"mappings":";AASA,MAAM,KAAK,GAAO;IACd,KAAK,EAAE,QAAQ;IACf,KAAK,EAAE,KAAK;IACZ,KAAK;QACD,OAAO,CAAC,GAAG,CAAC,gBAAgB,CAAC,CAAC;IAClC,CAAC;IACD,IAAI;QACA,OAAO,CAAC,GAAG,CAAC,gBAAgB,CAAC,CAAC;IAClC,CAAC;CACJ,CAAA;AAED,iBAAiB"}
